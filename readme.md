@@ -38,6 +38,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/anyscale_icon.webp" width="30" height="30"> | [Anyscale](https://github.com/anyscale/endpoint-cookbook) | Ray is the most popular open source framework for scaling and productionizing AI workloads. | ![GitHub Repo stars](https://img.shields.io/github/stars/anyscale/endpoint-cookbook) |
 | <img src="https://ai.openbestof.com/images/tools/stability-ai_icon.webp" width="30" height="30"> | [Stability AI](https://github.com/Stability-AI/generative-models) | Stability AI Developer Platform Explore the possibilities of generative AI | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/generative-models) |
 | <img src="https://ai.openbestof.com/images/tools/lite-llm_icon.webp" width="30" height="30"> | [Lite LLM](https://github.com/BerriAI/litellm) | LiteLLM handles loadbalancing, fallbacks and spend tracking across 100+ LLMs. All in the OpenAI format. | ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm) |
+| <img src="https://avatars.githubusercontent.com/u/175112039?s=200&v=4" width="30" height="30"> | [Linkup](https://github.com/LinkupPlatform) | RAG the web efficiently and legally with the Linkup API: an AI search engine optimized for agents to retrieve data from the web and beyond. | ![GitHub Repo stars](https://img.shields.io/github/stars/LinkupPlatform) |
 
 ## AI Cloud
 | Icon | Name | Description | Repos |
