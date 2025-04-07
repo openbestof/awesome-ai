@@ -130,6 +130,9 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/gpt-migrate_icon.webp" width="30" height="30"> | [GPT Migrate](https://github.com/joshpxyne/gpt-migrate) | Easily migrate your codebase from one framework or language to another. | ![GitHub Repo stars](https://img.shields.io/github/stars/joshpxyne/gpt-migrate) |
 | <img src="https://ai.openbestof.com/images/tools/gpt-pilot_icon.webp" width="30" height="30"> | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | GPT Pilot is a true AI developer that writes code, debugs it, talks to you when it needs help, etc. | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot) |
 | <img src="https://ai.openbestof.com/images/tools/mentat_icon.webp" width="30" height="30"> | [Mentat](https://github.com/AbanteAI/mentat) | Mentat is the AI tool that assists you with any coding task, right from your command line. | ![GitHub Repo stars](https://img.shields.io/github/stars/AbanteAI/mentat) |
+| Q | [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) | Open Source CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code. | ![GitHub Repo stars](https://img.shields.io/github/stars/aws/amazon-q-developer-cli) |
+
+
 
 ## Autonomous Agents
 | Icon | Name | Description | Repos |
