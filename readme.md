@@ -205,6 +205,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/neumai_icon.webp" width="30" height="30"> | [NeumAI](https://github.com/NeumTry/NeumAI) | Neum AI is a data platform that helps developers leverage their data to contextualize Large Language Models through Retrieval Augmented Generation (RAG). | ![GitHub Repo stars](https://img.shields.io/github/stars/NeumTry/NeumAI) |
 | <img src="https://ai.openbestof.com/images/tools/db-gpt_icon.webp" width="30" height="30"> | [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | DB-GPT is an open-source framework designed for the realm of large language models (LLMs) within the database field. | ![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT) |
 | <img src="https://ai.openbestof.com/images/tools/flowise_icon.webp" width="30" height="30"> | [Flowise](https://github.com/FlowiseAI/Flowise) | Flowise is a Drag & Drop UI to build your customized LLM automation flow. | ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise) |
+| <img src="https://avatars.githubusercontent.com/u/190812870?s=200&v=4" width="30" height="30"> | [CocoIndex](https://github.com/cocoindex-io/cocoindex) | Open source framework to build fresh knowledge for AI effortlessly - ultra performant, out-of-box incremental processing. | ![GitHub Repo stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex) |
 
 ## LLMs Training
 | Icon | Name | Description | Repos |
