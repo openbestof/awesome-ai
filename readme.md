@@ -130,6 +130,8 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/gpt-migrate_icon.webp" width="30" height="30"> | [GPT Migrate](https://github.com/joshpxyne/gpt-migrate) | Easily migrate your codebase from one framework or language to another. | ![GitHub Repo stars](https://img.shields.io/github/stars/joshpxyne/gpt-migrate) |
 | <img src="https://ai.openbestof.com/images/tools/gpt-pilot_icon.webp" width="30" height="30"> | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | GPT Pilot is a true AI developer that writes code, debugs it, talks to you when it needs help, etc. | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot) |
 | <img src="https://ai.openbestof.com/images/tools/mentat_icon.webp" width="30" height="30"> | [Mentat](https://github.com/AbanteAI/mentat) | Mentat is the AI tool that assists you with any coding task, right from your command line. | ![GitHub Repo stars](https://img.shields.io/github/stars/AbanteAI/mentat) |
+| <img src="https://gitlab.com/soapbox-pub/shakespeare/-/raw/main/public/shakespeare.svg" width="30" height="30"> | [Shakespeare](https://github.com/soapbox-pub/shakespeare) | Build websites with AI. Connect to any AI provider with any model. Built-in git and deployment. | ![GitHub Repo stars](https://img.shields.io/github/stars/AbanteAI/mentat) |
+
 
 ## Autonomous Agents
 | Icon | Name | Description | Repos |
