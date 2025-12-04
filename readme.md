@@ -88,6 +88,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/janai_icon.webp" width="30" height="30"> | [JanAI](https://github.com/janhq/jan) | Open-source ChatGPT alternative that runs 100% offline on your computer. | ![GitHub Repo stars](https://img.shields.io/github/stars/janhq/jan) |
 | <img src="https://ai.openbestof.com/images/tools/noi_icon.webp" width="30" height="30"> | [Noi](https://github.com/lencx/Noi) | Noi is an AI-enhanced, customizable browser designed to streamline your digital experience | ![GitHub Repo stars](https://img.shields.io/github/stars/lencx/Noi) |
 | <img src="https://ai.openbestof.com/images/tools/open-webui_icon.webp" width="30" height="30"> | [Open WebUI](https://github.com/open-webui/open-webui) | Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. | ![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui) |
+| <img src="https://image.piax.org/images/logo.png" width="30" height="30"> | [PIAX](https://www.piax.org)  | All-in-one AI tools platform: Text, Image, Video, and GPT-based tools. Quickly access and explore over 100 AI models. |  |
 
 ## Stable Diffusion
 | Icon | Name | Description | Repos |
