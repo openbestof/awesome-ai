@@ -212,6 +212,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/colossal-ai_icon.webp" width="30" height="30"> | [Colossal AI](https://github.com/hpcaitech/ColossalAI) | Maximize the runtime performance of your large neural networks with distributed techniques of Colossal-AI. | ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI) |
 | <img src="https://ai.openbestof.com/images/tools/megatron-lm_icon.webp" width="30" height="30"> | [Megatron LM](https://github.com/NVIDIA/Megatron-LM) | Megatron is a large, powerful transformer developed by the Applied Deep Learning Research team at NVIDIA. | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM) |
 | <img src="https://ai.openbestof.com/images/tools/deepspeed_icon.webp" width="30" height="30"> | [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed) |
+| <img src="https://www.aquin.app/favicon.ico" width="30" height="30">| [Aquin](https://www.aquin.app) | Vibe Code the LLM of your choice with few clicks and in few minutes |
 
 ## Vector Database
 | Icon | Name | Description | Repos |
