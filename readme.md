@@ -39,6 +39,8 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/stability-ai_icon.webp" width="30" height="30"> | [Stability AI](https://github.com/Stability-AI/generative-models) | Stability AI Developer Platform Explore the possibilities of generative AI | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/generative-models) |
 | <img src="https://ai.openbestof.com/images/tools/lite-llm_icon.webp" width="30" height="30"> | [Lite LLM](https://github.com/BerriAI/litellm) | LiteLLM handles loadbalancing, fallbacks and spend tracking across 100+ LLMs. All in the OpenAI format. | ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm) |
 
+| 🛠️ | [Arch Tools](https://archtools.dev) | 61 production AI tools — web scraping, crypto data, AI generation, sentiment analysis, OCR, TTS. Pay per-call with USDC via x402 or API keys. MCP-compatible. | - |
+
 ## AI Cloud
 | Icon | Name | Description | Repos |
 |------|------|-------------|-------|
