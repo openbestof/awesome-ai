@@ -130,6 +130,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/gpt-migrate_icon.webp" width="30" height="30"> | [GPT Migrate](https://github.com/joshpxyne/gpt-migrate) | Easily migrate your codebase from one framework or language to another. | ![GitHub Repo stars](https://img.shields.io/github/stars/joshpxyne/gpt-migrate) |
 | <img src="https://ai.openbestof.com/images/tools/gpt-pilot_icon.webp" width="30" height="30"> | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | GPT Pilot is a true AI developer that writes code, debugs it, talks to you when it needs help, etc. | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot) |
 | <img src="https://ai.openbestof.com/images/tools/mentat_icon.webp" width="30" height="30"> | [Mentat](https://github.com/AbanteAI/mentat) | Mentat is the AI tool that assists you with any coding task, right from your command line. | ![GitHub Repo stars](https://img.shields.io/github/stars/AbanteAI/mentat) |
+| | [claude-dash](https://github.com/krabat-l/claude-dash) | Real-time statusline for Claude Code showing context health, cost, quota, cache efficiency, tool activity, and git status. | ![GitHub Repo stars](https://img.shields.io/github/stars/krabat-l/claude-dash) |
 
 ## Autonomous Agents
 | Icon | Name | Description | Repos |
