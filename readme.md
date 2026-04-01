@@ -38,6 +38,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/anyscale_icon.webp" width="30" height="30"> | [Anyscale](https://github.com/anyscale/endpoint-cookbook) | Ray is the most popular open source framework for scaling and productionizing AI workloads. | ![GitHub Repo stars](https://img.shields.io/github/stars/anyscale/endpoint-cookbook) |
 | <img src="https://ai.openbestof.com/images/tools/stability-ai_icon.webp" width="30" height="30"> | [Stability AI](https://github.com/Stability-AI/generative-models) | Stability AI Developer Platform Explore the possibilities of generative AI | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/generative-models) |
 | <img src="https://ai.openbestof.com/images/tools/lite-llm_icon.webp" width="30" height="30"> | [Lite LLM](https://github.com/BerriAI/litellm) | LiteLLM handles loadbalancing, fallbacks and spend tracking across 100+ LLMs. All in the OpenAI format. | ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm) |
+| <img src="https://avatars.githubusercontent.com/MiniMax-AI?s=30&v=4" width="30" height="30"> | [MiniMax](https://github.com/MiniMax-AI/MiniMax-01) | MiniMax provides powerful foundation models with OpenAI-compatible API, featuring MiniMax-M2.7 with 204K context window for production AI applications. | ![GitHub Repo stars](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01) |
 
 ## AI Cloud
 | Icon | Name | Description | Repos |
