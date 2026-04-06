@@ -3,6 +3,7 @@
 
 A curated list of awesome AI tools, frameworks, api, software and resources.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ## Table of Contents
 - [Awesome AI](#awesome-ai)
   - [Table of Contents](#table-of-contents)
