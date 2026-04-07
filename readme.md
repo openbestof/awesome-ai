@@ -166,7 +166,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/x-agent_icon.webp" width="30" height="30"> | [X Agent](https://github.com/OpenBMB/XAgent) | XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks. | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent) |
 | <img src="https://ai.openbestof.com/images/tools/llama-index_icon.webp" width="30" height="30"> | [Llama Index](https://github.com/run-llama/llama_index) | LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data. | ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index) |
 
-## Knowledge Manager
+| | [RemoteOpenClaw](https://remoteopenclaw.com) | Open marketplace for discovering, sharing, and selling AI skills and personas built on OpenClaw. | |## Knowledge Manager
 | Icon | Name | Description | Repos |
 |------|------|-------------|-------|
 | <img src="https://ai.openbestof.com/images/tools/anything-llm_icon.webp" width="30" height="30"> | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. | ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm) |
