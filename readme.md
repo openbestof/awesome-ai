@@ -242,3 +242,8 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/tiny-diffusion_icon.webp" width="30" height="30"> | [Tiny Diffusion](https://github.com/crlandsc/tiny-audio-diffusion) | Tiny Audio Diffusion is a repository for generating short audio samples and training waveform diffusion models on a consumer-grade GPU with less than 2GB VRAM. | ![GitHub Repo stars](https://img.shields.io/github/stars/crlandsc/tiny-audio-diffusion) |
 | <img src="https://ai.openbestof.com/images/tools/audio-webui_icon.webp" width="30" height="30"> | [Audio WebUI](https://github.com/gitmylo/audio-webui) | Audio WebUI is a webui for different audio related Neural Networks. | ![GitHub Repo stars](https://img.shields.io/github/stars/gitmylo/audio-webui) |
 | <img src="https://ai.openbestof.com/images/tools/whisper.cpp_icon.webp" width="30" height="30"> | [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) | High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model. Port of OpenAI's Whisper model in C/C++.    | ![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp) |
+
+## Related AI Tools Lists
+| Icon | Name | Description | Repos |
+|------|------|-------------|-------|
+| 🤖 | [Awesome AI Tools](https://github.com/formatho/awesome-ai-tools) | Continuously updated, curated list of 200+ AI tools with auto-discovery and freshness tracking. Updates every 6 hours. | ![GitHub Repo stars](https://img.shields.io/github/stars/formatho/awesome-ai-tools) |
