@@ -181,6 +181,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/txtai_icon.webp" width="30" height="30"> | [TxtAI](https://github.com/neuml/txtai) | txtAI is an all-in-one embeddings database for semantic search, LLM orchestration and language model workflows. | ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/txtai) |
 | <img src="https://ai.openbestof.com/images/tools/swirl_icon.webp" width="30" height="30"> | [Swirl](https://github.com/swirlai/swirl-search) | Swirl is an open source software that simultaneously searches multiple content sources and returns AI ranked results. | ![GitHub Repo stars](https://img.shields.io/github/stars/swirlai/swirl-search) |
 | <img src="https://ai.openbestof.com/images/tools/danswer_icon.webp" width="30" height="30"> | [Danswer](https://github.com/danswer-ai/danswer) | Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. | ![GitHub Repo stars](https://img.shields.io/github/stars/danswer-ai/danswer) |
+| <img src="https://nothumansearch.ai/favicon.svg" width="30" height="30"> | [Not Human Search](https://github.com/unitedideas/nothumansearch) | Search engine for AI agent tools and MCP servers. Indexes 1,750+ AI-accessible tools with REST API and MCP endpoint for programmatic discovery and scoring. | ![GitHub Repo stars](https://img.shields.io/github/stars/unitedideas/nothumansearch) |
 
 ## LLMs Eval
 | Icon | Name | Description | Repos |
