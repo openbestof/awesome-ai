@@ -131,6 +131,9 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/gpt-pilot_icon.webp" width="30" height="30"> | [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) | GPT Pilot is a true AI developer that writes code, debugs it, talks to you when it needs help, etc. | ![GitHub Repo stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot) |
 | <img src="https://ai.openbestof.com/images/tools/mentat_icon.webp" width="30" height="30"> | [Mentat](https://github.com/AbanteAI/mentat) | Mentat is the AI tool that assists you with any coding task, right from your command line. | ![GitHub Repo stars](https://img.shields.io/github/stars/AbanteAI/mentat) |
 
+| 🧠 | [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) | Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, and swarm intelligence. | ![GitHub Repo stars](https://img.shields.io/github/stars/theihtisham/agent-shadow-brain) |
+| 🛠️ | [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) | 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, and Cline with visual dashboard. | ![GitHub Repo stars](https://img.shields.io/github/stars/theihtisham/omni-skills-forge) |
+
 ## Autonomous Agents
 | Icon | Name | Description | Repos |
 |------|------|-------------|-------|
