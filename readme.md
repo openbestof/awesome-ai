@@ -165,6 +165,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/superagent_icon.webp" width="30" height="30"> | [SuperAgent](https://github.com/homanp/superagent) | SuperAgent is an open-source agent framework that enables any developer to integrate production-ready AI Assistants into any application in a matter of minutes. | ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent) |
 | <img src="https://ai.openbestof.com/images/tools/x-agent_icon.webp" width="30" height="30"> | [X Agent](https://github.com/OpenBMB/XAgent) | XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks. | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent) |
 | <img src="https://ai.openbestof.com/images/tools/llama-index_icon.webp" width="30" height="30"> | [Llama Index](https://github.com/run-llama/llama_index) | LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data. | ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index) |
+| | [Scalekit](https://scalekit.com/) | Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 3000+ connectors. | - |
 
 ## Knowledge Manager
 | Icon | Name | Description | Repos |
