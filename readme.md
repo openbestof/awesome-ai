@@ -133,6 +133,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 
 ## Autonomous Agents
 | Icon | Name | Description | Repos |
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native x402 MCP server for AI agent trust scoring. Free: score_agent, preflight_check. Paid: get_trust_receipt via HTTP 402 + USDC. MCP: https://intel.twzrd.xyz/mcp
 |------|------|-------------|-------|
 | <img src="https://ai.openbestof.com/images/tools/pinokio_icon.webp" width="30" height="30"> | [pinokio](https://github.com/pinokiocomputer/pinokio) | Pinokio is a browser that lets you install, run, and automate any AI applications and models automatically and effortlessly. | ![GitHub Repo stars](https://img.shields.io/github/stars/pinokiocomputer/pinokio) |
 | <img src="https://ai.openbestof.com/images/tools/agentgpt_icon.webp" width="30" height="30"> | [AgentGPT](https://github.com/reworkd/AgentGPT) | AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable. | ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT) |
