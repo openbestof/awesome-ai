@@ -1,4 +1,3 @@
-
 # Awesome AI
 
 A curated list of awesome AI tools, frameworks, api, software and resources.
@@ -170,6 +169,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | Icon | Name | Description | Repos |
 |------|------|-------------|-------|
 | <img src="https://ai.openbestof.com/images/tools/anything-llm_icon.webp" width="30" height="30"> | [Anything LLM](https://github.com/Mintplex-Labs/anything-llm) | Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. | ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm) |
+| <img src="https://remio.ai/favicon.ico" width="30" height="30"> | [Remio](https://remio.ai/) | Local-first AI memory and knowledge base desktop app that indexes notes, files, webpages, recordings, emails, messages, images, and other personal knowledge sources for semantic retrieval by users and agents. | - |
 | <img src="https://ai.openbestof.com/images/tools/docs-gpt_icon.webp" width="30" height="30"> | [Docs GPT](https://github.com/arc53/docsgpt) | DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in the project documentation. | ![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt) |
 | <img src="https://ai.openbestof.com/images/tools/quivr_icon.webp" width="30" height="30"> | [Quivr](https://github.com/StanGirard/quivr) | Quivr, your second brain, utilizes the power of GenerativeAI to be your personal assistant. | ![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr) |
 | <img src="https://ai.openbestof.com/images/tools/chaindesk_icon.webp" width="30" height="30"> | [Chaindesk](https://github.com/gmpetrov/databerry) | The no-code platform for building custom LLM Agents that provides a solution to quickly setup a semantic search system over your personal data. | ![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry) |
