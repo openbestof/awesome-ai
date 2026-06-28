@@ -166,6 +166,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/x-agent_icon.webp" width="30" height="30"> | [X Agent](https://github.com/OpenBMB/XAgent) | XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks. | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent) |
 | <img src="https://ai.openbestof.com/images/tools/llama-index_icon.webp" width="30" height="30"> | [Llama Index](https://github.com/run-llama/llama_index) | LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data. | ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index) |
 
+| <img src="https://buywhere.ai/favicon.ico" width="30" height="30"> | [BuyWhere](https://buywhere.ai) | BuyWhere is an AI-powered cross-border shopping agent that searches 11M+ live products across Shopee, Lazada, Amazon, and 200+ retailers in SG/SEA/US with price comparison and deal alerts. MCP-native and REST API. | ![GitHub Repo stars](https://img.shields.io/github/stars/BuyWhere/buywhere-mcp) |
 ## Knowledge Manager
 | Icon | Name | Description | Repos |
 |------|------|-------------|-------|
