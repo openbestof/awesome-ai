@@ -236,6 +236,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/hf-courses_icon.webp" width="30" height="30"> | [HF Courses](https://github.com/huggingface/course) | The Hugging Face  course teaches you about applying Transformers to various tasks in natural language processing and beyond. | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/course) |
 
 ## Audio Gen
+| [CharaVox](https://charavox.com) | AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM. |
 | Icon | Name | Description | Repos |
 |------|------|-------------|-------|
 | <img src="https://ai.openbestof.com/images/tools/bark-ui_icon.webp" width="30" height="30"> | [Bark UI](https://github.com/C0untFloyd/bark-gui) | BarkUI is a Gradio Web UI for text-prompted Generative Audio Model. | ![GitHub Repo stars](https://img.shields.io/github/stars/C0untFloyd/bark-gui) |
