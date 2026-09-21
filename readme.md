@@ -4,6 +4,7 @@
 A curated list of awesome AI tools, frameworks, api, software and resources.
 
 ## Table of Contents
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — Free AI toolbox (FLUX image, text, video). No sign-up. MIT. [Source](https://github.com/kaketiti/magickit)
 - [Awesome AI](#awesome-ai)
   - [Table of Contents](#table-of-contents)
   - [AI API](#ai-api)
