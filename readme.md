@@ -166,6 +166,8 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/x-agent_icon.webp" width="30" height="30"> | [X Agent](https://github.com/OpenBMB/XAgent) | XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks. | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/XAgent) |
 | <img src="https://ai.openbestof.com/images/tools/llama-index_icon.webp" width="30" height="30"> | [Llama Index](https://github.com/run-llama/llama_index) | LlamaIndex is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data. | ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index) |
 
+|  | [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. | ![GitHub Repo stars](https://img.shields.io/github/stars/Orkas-AI/Orkas) |
+
 ## Knowledge Manager
 | Icon | Name | Description | Repos |
 |------|------|-------------|-------|
