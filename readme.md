@@ -38,6 +38,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/anyscale_icon.webp" width="30" height="30"> | [Anyscale](https://github.com/anyscale/endpoint-cookbook) | Ray is the most popular open source framework for scaling and productionizing AI workloads. | ![GitHub Repo stars](https://img.shields.io/github/stars/anyscale/endpoint-cookbook) |
 | <img src="https://ai.openbestof.com/images/tools/stability-ai_icon.webp" width="30" height="30"> | [Stability AI](https://github.com/Stability-AI/generative-models) | Stability AI Developer Platform Explore the possibilities of generative AI | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/generative-models) |
 | <img src="https://ai.openbestof.com/images/tools/lite-llm_icon.webp" width="30" height="30"> | [Lite LLM](https://github.com/BerriAI/litellm) | LiteLLM handles loadbalancing, fallbacks and spend tracking across 100+ LLMs. All in the OpenAI format. | ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm) |
+| <img src="https://upres.ai/apple-touch-icon.png" width="30" height="30"> | [UpRes](https://upres.ai) | AI image and video upscaling API with 6 specialist models, up to 8K output. Free tier available. | ![GitHub Repo stars](https://img.shields.io/github/stars/auroracapital/upres-cli) |
 
 ## AI Cloud
 | Icon | Name | Description | Repos |
