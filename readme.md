@@ -4,6 +4,8 @@
 A curated list of awesome AI tools, frameworks, api, software and resources.
 
 ## Table of Contents
+
+- [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
 - [Awesome AI](#awesome-ai)
   - [Table of Contents](#table-of-contents)
   - [AI API](#ai-api)
