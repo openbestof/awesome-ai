@@ -189,6 +189,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/fastchat_icon.webp" width="30" height="30"> | [FastChat](https://github.com/lm-sys/FastChat) | FastChat is a benchmark platform for large language models (LLMs) that features anonymous, randomized battles in a crowdsourced manner. | ![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat) |
 | <img src="https://ai.openbestof.com/images/tools/bigcode-eval_icon.webp" width="30" height="30"> | [BigCode Eval](https://github.com/bigcode-project/bigcode-evaluation-harness) | BigCode Evaluation Harness is a framework for the evaluation of autoregressive code generation language models. | ![GitHub Repo stars](https://img.shields.io/github/stars/bigcode-project/bigcode-evaluation-harness) |
 | <img src="https://ai.openbestof.com/images/tools/promptfoo_icon.webp" width="30" height="30"> | [Promptfoo](https://github.com/promptfoo/promptfoo) | Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. | ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo) |
+|  | [ModelBenchmark](https://modelbenchmark.io) | Independent rankings of AI models: composite of 16 public benchmarks, prices, context windows. |  |
 
 ## LLMs Framework
 | Icon | Name | Description | Repos |
