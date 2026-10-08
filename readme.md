@@ -38,6 +38,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/anyscale_icon.webp" width="30" height="30"> | [Anyscale](https://github.com/anyscale/endpoint-cookbook) | Ray is the most popular open source framework for scaling and productionizing AI workloads. | ![GitHub Repo stars](https://img.shields.io/github/stars/anyscale/endpoint-cookbook) |
 | <img src="https://ai.openbestof.com/images/tools/stability-ai_icon.webp" width="30" height="30"> | [Stability AI](https://github.com/Stability-AI/generative-models) | Stability AI Developer Platform Explore the possibilities of generative AI | ![GitHub Repo stars](https://img.shields.io/github/stars/Stability-AI/generative-models) |
 | <img src="https://ai.openbestof.com/images/tools/lite-llm_icon.webp" width="30" height="30"> | [Lite LLM](https://github.com/BerriAI/litellm) | LiteLLM handles loadbalancing, fallbacks and spend tracking across 100+ LLMs. All in the OpenAI format. | ![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm) |
+| <img src="https://shannonapi.xyz/favicon.ico" width="30" height="30"> | [Shannon API](https://shannonapi.xyz/) | One API key and one OpenAI-compatible endpoint for multiple leading LLMs, with a model marketplace, per-model pricing and pay-as-you-go billing. | - |
 
 ## AI Cloud
 | Icon | Name | Description | Repos |
