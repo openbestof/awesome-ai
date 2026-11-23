@@ -20,6 +20,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
   - [Vector Database](#vector-database)
   - [AI Course](#ai-course)
   - [Audio Gen](#audio-gen)
+  - [Video Gen](#video-gen)
 
 ## AI API
 | Icon | Name | Description | Repos |
@@ -242,3 +243,9 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
 | <img src="https://ai.openbestof.com/images/tools/tiny-diffusion_icon.webp" width="30" height="30"> | [Tiny Diffusion](https://github.com/crlandsc/tiny-audio-diffusion) | Tiny Audio Diffusion is a repository for generating short audio samples and training waveform diffusion models on a consumer-grade GPU with less than 2GB VRAM. | ![GitHub Repo stars](https://img.shields.io/github/stars/crlandsc/tiny-audio-diffusion) |
 | <img src="https://ai.openbestof.com/images/tools/audio-webui_icon.webp" width="30" height="30"> | [Audio WebUI](https://github.com/gitmylo/audio-webui) | Audio WebUI is a webui for different audio related Neural Networks. | ![GitHub Repo stars](https://img.shields.io/github/stars/gitmylo/audio-webui) |
 | <img src="https://ai.openbestof.com/images/tools/whisper.cpp_icon.webp" width="30" height="30"> | [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) | High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model. Port of OpenAI's Whisper model in C/C++.    | ![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp) |
+
+## Video Gen
+| Icon | Name | Description | Repos |
+|------|------|-------------|-------|
+| - | [Angry Dance](https://angrydance.com) | Browser-based single-photo AI dance, pet dance, and viral 9:16 short-form video generator with 40+ one-tap effects, upfront credit pricing, and watermark-free downloads. | - |
+
