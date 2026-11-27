@@ -20,6 +20,7 @@ A curated list of awesome AI tools, frameworks, api, software and resources.
   - [Vector Database](#vector-database)
   - [AI Course](#ai-course)
   - [Audio Gen](#audio-gen)
+- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 
 ## AI API
 | Icon | Name | Description | Repos |
